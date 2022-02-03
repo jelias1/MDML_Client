@@ -1,20 +1,10 @@
 MDML Python Client
 ==================
 
-Client
-----------------
+.. autofunction:: mdml_client.start_experiment
 
-.. autoclass:: mdml_client
-   :members:
+.. autofunction:: mdml_client.stop_experiment
 
+.. autofunction:: mdml_client.kafka_mdml_producer
 
-Helper Functions
-----------------
-
-.. autofunction:: mdml_client.unix_time
-
-.. autofunction:: mdml_client.read_image
-
-.. autofunction:: mdml_client.GET_images
-
-.. autofunction:: mdml_client.query
+.. autofunction:: mdml_client.kafka_mdml_consumer
