@@ -1,6 +1,8 @@
 MDML Python Client
 ==================
 
+.. autofunction:: mdml_client.chunk_file
+
 .. autofunction:: mdml_client.start_experiment
 
 .. autofunction:: mdml_client.stop_experiment
