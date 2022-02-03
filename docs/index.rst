@@ -9,10 +9,7 @@ This client connects users to the Manufacturing Data and Machine Learning Layer 
 Argonne National Laboratory.
 
 .. toctree::
-
-   chunk_file
-   start_experiment
-
+   client
 
 Indices and tables
 ==================
